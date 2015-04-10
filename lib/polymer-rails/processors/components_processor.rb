@@ -1,3 +1,4 @@
+require 'nokogiri'
 require 'polymer-rails/component'
 
 module Polymer
